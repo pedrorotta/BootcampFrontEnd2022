@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="es">
+ 
+ <head>
+
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width= device-width, initial scale = 1.0">
+  <title>Empresa A</title>
+  <link rel="stylesheet" href="estilos.css"> <!--Tampoco tiene marca de cierre.--> 
+  
+
+ </head> 
+
+
+
+ <body>
+
+  <header>
+   <h1>Página Empresarial</h1>
+   
+   <nav>
+    <ul>
+ 
+    
+     <li><a href="index.html">Inicio</a></li>
+     <li><a href="nosotros.html">Nosotros</a></li>
+     <li><a href="blog.html">Blog</a></li>
+     <li><a href="contactanos.html">Contáctanos</a></li>
+    </ul>
+   </nav>
+  </header>
+ 
+
+  <div class="parrafos"> <!--div 1-->
+   <p id="parrafo1">
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat sequi omnis corporis! Dolorum amet in sunt odit adipisci facere recusandae nemo eligendi repudiandae corporis quia, voluptatum sint, id ducimus non.
+   </p>
+   <p id = parrafo2>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad doloribus aliquam distinctio modi beatae repellat ex ab corrupti reprehenderit omnis!
+   </p>
+  </div>
+
+  <table class = "parrafos" border="1"> <!--Atributo border va dentro de la entrada de la etiqueta tabla-->  
+   <tr>
+    <th>Nombre</th>
+    <th>Edad</th>
+    <th>Nota</th>
+   </tr>   
+
+   <tr> <!--Esta es la fila de rowspan-->
+    <td rowspan="2">Pedro</td>
+    <td rowspan="2">25</td>
+    <td>16</td>
+   </tr>
+   <tr>
+    <td>17</td>
+   </tr>
+
+   <tr>
+    <td rowspan="2">Lucía</td>
+    <td rowspan="2">19</td>
+    <td>18</td>
+   </tr>
+   <tr>
+    <td>15</td>
+   </tr>
+
+   <tr>
+    <td colspan="2">Promedio</td>
+    <td>16</td>
+   </tr>
+
+  </table>
+
+  <div id="video"> <!--div2-->
+   <video src = "videos/robotcuadrupedo.mp4" muted
+   autoplay width="45%" controls loop>
+    No se cargó el video. 
+   </video>
+  </div>
+
+
+ </body>
+
+
+
+</html>

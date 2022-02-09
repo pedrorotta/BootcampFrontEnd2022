@@ -1,0 +1,22 @@
+
+table.parrafos{
+ border-collapse: collapse;
+}                   
+
+div.parrafos{
+
+ border: 2px solid #000000;
+ padding: 25px ;
+}
+
+
+div.parrafos #parrafo1{
+ border: 2px solid rgb(11, 9, 102);
+ margin: 20px;
+ padding: 15px;
+
+}
+
+#parrafo2{
+ border: 2px solid rgb(104, 6, 6);
+}
