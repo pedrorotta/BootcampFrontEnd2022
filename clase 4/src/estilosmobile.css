@@ -1,0 +1,52 @@
+body{
+ margin: 0px;
+}
+
+header{
+ position: relative;
+ background-color: rgb(67,3,3,0.80);;
+}
+
+header img{
+ width: 100px;
+}
+
+header nav{
+ float: right;
+}
+
+nav ul{
+ display: none;
+ position: relative;
+ right: 20px;
+ top: 45px;
+ padding: 0px 0px 0px 0px;
+}
+
+nav ul li{
+ padding: 15px 15px;
+ margin: 10px 0px;
+ list-style-type: none;
+}
+
+nav ul li:hover{
+ background-color:crimson ;
+}
+
+nav ul li a{
+ color: aliceblue;
+ text-decoration: none;
+
+}
+nav i{
+ font-size: 30px;
+ position: absolute;
+ right: 15%;
+ top: 30px;
+ color: white;
+}
+
+nav:hover ul{
+ display: block;
+ background-color: rgb(38,196,202);
+}
