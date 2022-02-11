@@ -12,4 +12,16 @@ Documentación: https://www.w3schools.com/html/default.asp
 
 Clase 3: 
 Libro: Pro HTML5 with CSS, JavaScript, and Multimedia, Capítulo 9 y 10.
-Documentación: https://www.w3schools.com/css/default.asp
+Documentación: https://www.w3schools.com/css/default.asp (Principal)
+
+Clase4: 
+Libro: Pro HTML5 with CSS, JavaScript, and Multimedia, Capítulos 11,12,13 y 14
+Documentación: https://www.w3schools.com/css/default.asp (Etapa avanzada)
+Opcional: Pro HTML5 with CSS, JavaScript, and Multimedia, Capítulo 15. 
+
+Clase5: 
+Bootstrap: https://www.w3schools.com/bootstrap5/index.php
+
+Javascript:
+Libro: Pro HTML5 with CSS, JavaScript, and Multimedia, Capítulos 17,18
+Documentación: https://www.w3schools.com/js/js_htmldom.asp
